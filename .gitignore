@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Optional local notes or backups
+*.bak
+*.tmp
+
+# Downloaded bundles
+*.zip
+
+# Only needed if you build a Windows .exe or phone app later
+node_modules/
+dist/
